@@ -124,35 +124,56 @@ int main()
     cin.tie(NULL);
     std::ios_base::sync_with_stdio(false);
 
-    Array A;
-    int n, i = 0;
-    cin >> n;
-    int x;
-    while (i < n)
-    {
-        cin >> x;
-        A.insert_(x);
-        i++;
-    }
+//     Array A;
+//     int n, i = 0;
+//     cin >> n;
+//     int x;
+//     while (i < n)
+//     {
+//         cin >> x;
+//         A.insert_(x);
+//         i++;
+//     }
 
-    Array A2;
+//     Array A2;
 
-    for (int i = 0; i < 100000; i++)
-    {
-        A2 = A;
-    }
+//     for (int i = 0; i < 100000; i++)
+//     {
+//         A2 = A;
+//     }
 
-    for (int i = 0; i < A.view_na(); i++)
-    {
-        if (A.view_elements(i) != A2.view_elements(i))
-        {
-            cout << "WRONG!" << endl;
-        }
-    }
+//     for (int i = 0; i < A.view_na(); i++)
+//     {
+//         if (A.view_elements(i) != A2.view_elements(i))
+//         {
+//             cout << "WRONG!" << endl;
+//         }
+//     }
 
-    cout << "NO COPY ERROR!";
+//     cout << "NO COPY ERROR!";
+    
+//     Array *A;
+//     int m;
+//     cin >> m;
+//     A = new Array[m];
+//     int n, j, x;
+//     for (int i = 0; i < m; i++)
+//     {
+//         cin >> n;
+//         j = 0;
+//         while (j < n)
+//         {
+//             cin >> x;
+//             A[i].insert_(x);
+//             j++;
+//         }
+//     }
 
-    // A2.print_list();
+//     for (int i = 0; i < m; i++)
+//     {
+//         A[i].print_list();
+//         cout << endl;
+//     }
 
     return 0;
 }
