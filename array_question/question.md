@@ -33,6 +33,9 @@ Một số vấn đề có vẻ khó nhưng thực chất chúng rất đơn gi�
 1 2
 0 1 4
 
+Giải thích: Truy vấn đầu tiên là 1 2, do đó ta đổi giá trị tại chỉ số mảng 2 từ 1 thành 0, khi đó mảng mới là: 1 0 0 1 0.
+Truy vấn thứ 2 là 0 1 4, khi đó 01102 = 02^0 + 12^1 + 1*2^2 = 610 là số chẵn; Do đó, đáp án là EVEN.
+
 **INPUT** | **OUTPUT**
 ----------| ----------
 10 5 | ODD
