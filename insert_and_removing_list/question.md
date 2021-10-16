@@ -36,7 +36,7 @@ Nếu danh sách rỗng, xuất ra chữ “blank” (không có ngoặc kép).
 ----------| ----------
 1 7 | 7 5 8 4 4 0 1 9 7 3
 
-3 3
+3 3 | 
 
 2 0 9
 
