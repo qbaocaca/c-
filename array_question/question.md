@@ -12,7 +12,7 @@ Một số vấn đề có vẻ khó nhưng thực chất chúng rất đơn gi�
 
 •	Dòng đầu tiên chứa 2 số N và Q. Dòng tiếp theo chứa N số 0 hoặc 1 cách nhau bởi 1 dấu cách. Q dòng tiếp theo, mỗi dòng là 1 truy vấn.
 
-## Ouput:
+#### Ouput:
 
 •	Với các truy vấn có dạng 0 L R in ra giá trị thập phân được tạo thành từ L tới R là chẵn hay lẻ. Chẵn thì in ra “EVEN“, lẻ thì in ra “ODD” không kèm dấu nháy.
 
