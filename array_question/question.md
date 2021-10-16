@@ -24,4 +24,6 @@ Một số vấn đề có vẻ khó nhưng thực chất chúng rất đơn gi�
 
 •	1 <= Q <= 10^6
 
-firt | sedjl
+first header | second header
+------------ | -------------
+kshdksfkfjsdsdsdsd | shdsjdhsjdhsjk
