@@ -9,3 +9,5 @@ _ solved files in some methods
 _ code for generating test case
 
 _ some test cases
+
+Note: Uncomment the blocks for print out each step
