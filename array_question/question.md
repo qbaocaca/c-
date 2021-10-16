@@ -26,11 +26,12 @@ Một số vấn đề có vẻ khó nhưng thực chất chúng rất đơn gi�
 
 # SAMPLE:
 
-# INPUT | OUTPUT
---------| ------
+**INPUT** | **OUTPUT**
+----------| ----------
 5 2 | EVEN
 1 0 1 1 0
 1 2
 0 1 4
+
 
 
