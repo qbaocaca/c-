@@ -46,8 +46,44 @@ Truy vấn thứ 2 là 0 1 4, khi đó 01102 = 02^0 + 12^1 + 1*2^2 = 610 là s�
 1 4
 0 3 3
 
+### Sample OUTPUT with explanation
 
+10 5
 
+1 0 0 1 0 0 0 0 0 1         
 
+0 9 9
 
+before: 1 0 0 1 0 0 0 0 0 1 
 
+binary = 1 
+
+dec = 1 is ODD
+
+0 0 6
+
+before: 1 0 0 1 0 0 0 0 0 1 
+
+binary = 0 0 0 1 0 0 1 
+
+dec = 73 is ODD
+
+1 0
+
+before: 1 0 0 1 0 0 0 0 0 1     
+
+after switch: 1 0 1 1 0 0 0 0 0 1 
+
+1 4
+
+before: 1 0 1 1 0 0 0 0 0 1 
+
+after switch: 1 0 1 0 0 0 0 0 0 1
+
+0 3 3
+
+before: 1 0 1 0 0 0 0 0 0 1
+
+binary = 0
+
+dec = 73 is ODD
