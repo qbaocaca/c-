@@ -9,29 +9,29 @@ int main()
 
 {
 
-PhanSo a(1, 3), c;
+  PhanSo a(1, 3), c;
 
-int b = 8;
+  int b = 8;
 
-c = a + (PhanSo)b;
+  c = a + (PhanSo)b;
 
-cout << "c = " << a << " + " << b << " = " << c << endl;
+  cout << "c = " << a << " + " << b << " = " << c << endl;
 
-cout << "++c: ";
+  cout << "++c: ";
 
-cout << "c = " << ++c << endl;
+  cout << "c = " << ++c << endl;
 
-cout << "a = " << a << " + " << c << endl;
+  cout << "a = " << a << " + " << c << endl;
 
-a += c;
+  a += c;
 
-cout << "a = " << a << endl;
+  cout << "a = " << a << endl;
 
-b = a;
+  b = a;
 
-cout << "b = " << b << endl;
+  cout << "b = " << b << endl;
 
-return 0;
+  return 0;
 
 }
 
