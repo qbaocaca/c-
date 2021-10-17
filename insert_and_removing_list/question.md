@@ -1,5 +1,7 @@
 Link: https://khmt.uit.edu.vn/wecode/truonganpn/assignment/4/13
 
+There's a template if you wanna use: https://github.com/qbaocaca/c_plus_plus/blob/main/insert_and_removing_list/template.md
+
 Vietnamese
 
 Không chỉ thuận tiện khi bổ sung phần tử, danh sách liên kết còn hiệu quả khi xóa bỏ phần tử ở đầu danh sách, cuối danh sách hoặc một vị trí đã xác định trong danh sách.
