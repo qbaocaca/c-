@@ -41,34 +41,29 @@ b) Đọc kỹ từng dòng của mã nguồn (các dòng 24 – 37) để cho b
 những phương thức và phép toán nào. Viết tập tin 𝑃ℎ𝑎𝑛𝑆𝑜. ℎ định nghĩa các phương thức cần
 thiết, như hướng dẫn trong bảng sau (chép lại mã nguồn và viết bổ sung đầy đủ):
 
-// Tập tin PhanSo.h
-
 #ifndef _PhanSo_h
 
 #define _PhanSo_h
 
 #include <iostream>
-  
+
 using namespace std;
-  
-class PhanSo 
-  
+
+class PhanSo
+
 {
-  
+
 private:
-  
-int tu, mau;
-  
+    int tu, mau;
+
 public:
-  
-PhanSo();
-  
-// Các dòng mã cần viết thêm
-  
-// ...
-  
+    PhanSo();
+
+    // Các dòng mã cần viết thêm
+
+    // ...
 };
-  
+
 #endif
   
 c) Viết mã của 5 phương thức trong số các phương thức đã khai báo ở câu trên
