@@ -5,33 +5,35 @@ Vietnamese
 Lớp phân số (đặt tên là 𝑃ℎ𝑎𝑛𝑆𝑜) được viết để cho phép tính toán trên phân số. Đoạn chương trình sau
 đây được viết để chạy thử các phương thức và phép toán đã viết:
 
-# int main() {
+int main()
 
-  # PhanSo a(1, 3), c;
+{
 
-  # int b = 8;
+PhanSo a(1, 3), c;
 
-  # c = a + (PhanSo)b;
+int b = 8;
 
-  # cout << "c = " << a << " + " << b << " = " << c << endl;
+c = a + (PhanSo)b;
 
-  # cout << "++c: ";
+cout << "c = " << a << " + " << b << " = " << c << endl;
 
-  # cout << "c = " << ++c << endl;
+cout << "++c: ";
 
-  # cout << "a = " << a << " + " << c << endl;
+cout << "c = " << ++c << endl;
 
-  # a += c;
+cout << "a = " << a << " + " << c << endl;
 
-  # cout << "a = " << a << endl;
+a += c;
 
-  # b = a;
+cout << "a = " << a << endl;
 
-  # cout << "b = " << b << endl;
+b = a;
 
-  # return 0;
+cout << "b = " << b << endl;
 
-# }
+return 0;
+
+}
 
 a) Giả sử các phép toán và phương thức của lớp 𝑃ℎ𝑎𝑛𝑆𝑜 đã được viết đủ và đúng. Bạn hãy cho biết
 kết quả chạy của chương trình nói trên.
@@ -50,7 +52,9 @@ thiết, như hướng dẫn trong bảng sau (chép lại mã nguồn và viế
   
 using namespace std;
   
-class PhanSo {
+class PhanSo 
+  
+{
   
 private:
   
