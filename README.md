@@ -1,13 +1,13 @@
 # i solve some OOP exercises
 
-an exercise is contained in a folder, which consists of
+An exercise is contained in a folder, which consists of:
 
-_ a question in either Vietnamese or English
+- a question in either Vietnamese or English
 
-_ solved files in some methods
+- solved files in some methods
 
-_ code for generating test case
+- code for generating test case
 
-_ some test cases
+- some test cases
 
-Note: Uncomment the blocks for print out each step
+_Note: Uncomment the blocks for print out each step._

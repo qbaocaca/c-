@@ -12,9 +12,7 @@ int main()
 {
     cin.tie(NULL);
     std::ios_base::sync_with_stdio(false);
-
     list a;
-
     int x, b, c;
 
     do
