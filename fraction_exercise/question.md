@@ -1,4 +1,4 @@
-Vietnamese cuuduonghthancong
+Vietnamese cuuduongthancong
 
 Lớp phân số (đặt tên là 𝑃ℎ𝑎𝑛𝑆𝑜) được viết để cho phép tính toán trên phân số. Đoạn chương trình sau
 đây được viết để chạy thử các phương thức và phép toán đã viết:
@@ -46,4 +46,4 @@ thiết, như hướng dẫn trong bảng sau (chép lại mã nguồn và viế
 
 c) Viết mã của 5 phương thức trong số các phương thức đã khai báo ở câu trên
 
-[cuuduonghthancong]: https://cuuduongthancong.com/pvf/331355/lap-trinh-huong-doi-tuong/nguyen-tan-tran-minh-khang/pplthdt_dethi_2012.pdf?src=afile&action=hover
+[cuuduongthancong]: https://cuuduongthancong.com/pvf/331355/lap-trinh-huong-doi-tuong/nguyen-tan-tran-minh-khang/pplthdt_dethi_2012.pdf?src=afile&action=hover

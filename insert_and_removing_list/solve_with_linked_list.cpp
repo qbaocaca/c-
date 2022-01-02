@@ -222,7 +222,7 @@ int main()
             {
                 l.insert_after(t, y);
 
-                // cout << "after insert " << x << ": ";
+                // cout << "after insert " << y << ": ";
                 // l.print_list();
                 // cout << endl;
             }
